@@ -1,0 +1,3 @@
+path /bin
+ls
+ls -a

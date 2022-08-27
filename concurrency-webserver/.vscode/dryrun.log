@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/zhangxiao/Documents/Self-learning/OS/code/ostep-projects/concurrency-webserver'
+make: Leaving directory `/Users/zhangxiao/Documents/Self-learning/OS/code/ostep-projects/concurrency-webserver'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

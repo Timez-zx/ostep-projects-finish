@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/zhangxiao/Documents/Self-learning/OS/code/ostep-projects'
+make: Leaving directory `/Users/zhangxiao/Documents/Self-learning/OS/code/ostep-projects'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
